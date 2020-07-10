@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## My Name is Younhong Ko, student of Handong Global University, majoring in Advanced Computer Engineering.
+
+## Field of Studying
+1. Mobile Application
+2. Web Application
+
+## Contact Information
+> younhong@kakao.com
+
 <!--
 **Younhong/Younhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
