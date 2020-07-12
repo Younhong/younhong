@@ -3,8 +3,12 @@
 ## My Name is Younhong Ko, student of Handong Global University, majoring in Advanced Computer Engineering.
 
 ## Field of Studying
-1. Mobile Application
-2. Web Application
+* Mobile Application
+* Web Application
+* Website
+* Database
+* Server
+* Machine Learning
 
 ## Github Page
 > http://younhong.github.io
