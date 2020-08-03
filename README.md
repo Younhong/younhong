@@ -10,7 +10,10 @@
 * Server
 * Machine Learning
 
-## Github Page
+## Explanations for Project Involved
+* [Link](https://younhong.github.io/projectintro)
+
+## Github Blog Page
 > http://younhong.github.io
 
 ## Contact Information
