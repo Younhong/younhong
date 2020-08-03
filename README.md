@@ -11,7 +11,7 @@
 * Machine Learning
 
 ## Explanations for Project Involved
-* [Link](https://younhong.github.io/projectintro)
+> [Link](https://younhong.github.io/projectintro)
 
 ## Github Blog Page
 > http://younhong.github.io
