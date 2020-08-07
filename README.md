@@ -8,6 +8,7 @@
 * Website
 * Database
 * Server
+* Web Crawling
 * Machine Learning
 
 ## Explanations for Project Involved
