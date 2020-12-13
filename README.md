@@ -5,13 +5,13 @@
 * 컴퓨터공학심화
 
 ## 주요 공부 분야
-* Mobile Application
+* Mobile Application(Android & IOS)
 * Web Application
-* Website
-* Database
-* Server
+* Desktop Application(Mac & Window & Linux) 
+* Database System
+* Server System
 * Web Crawling
-* Machine Learning
+* Artificial Intelligence(Machine Learning)
 
 ## Working Experience
 * (주)아하정보통신: 2017/04/24 ~ 2019/06/24
