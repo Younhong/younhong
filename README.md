@@ -1,6 +1,10 @@
-## My Name is Younhong Ko, student of Handong Global University, majoring in Advanced Computer Engineering.
+## 소개
+* 한동대학교 전산전자공학부 14학번 고윤홍
 
-## Field of Studying
+## 전공
+* 컴퓨터 공학 심화
+
+## 주요 공부 분야
 * Mobile Application
 * Web Application
 * Website
@@ -15,13 +19,13 @@
 * (주)허그인 산학 캡스톤 프로젝트: 2019년도 겨울 계절학기 ~ 2020년도 가을학기
 * (주)허그인 산학 인턴쉽: 2020년도 겨울 계절학기
 
-## Projects Involved
+## 참여한 프로젝트
 * [Link](https://younhong.github.io/projects)
 
 ## 보유 자격증
 * CSTS(SW 테스트 전문가)
 
-## Github Blog Page
+## 깃허브 블로그
 * http://younhong.github.io
 
 ## Contact Information
