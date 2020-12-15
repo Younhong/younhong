@@ -20,7 +20,7 @@
 * (주)허그인 산학 인턴쉽: 2020년도 겨울 계절학기
 
 ## 참여한 프로젝트
-* [Link](https://younhong.github.io/projects)
+* [Link](https://younhong.github.io/younhong/projects)
 
 ## 보유 자격증
 * CSTS(SW 테스트 전문가)
