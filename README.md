@@ -26,7 +26,8 @@
 * CSTS(SW 테스트 전문가)
 
 ## 깃허브 블로그
-* http://younhong.github.io
+* https://younhong.github.io
+* https://younhong.github.io/younhong
 
 ## Contact Information
 * younhong@kakao.com
