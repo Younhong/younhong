@@ -23,7 +23,7 @@
 * [Link](https://younhong.github.io/younhong/projects)
 
 ## 보유 자격증
-* CSTS(SW 테스트 전문가)
+* SW 테스트 전문가(CSTS) 한국정보통신기술협회(TTA)
 
 ## 깃허브 블로그
 * [https://younhong.github.io](https://younhong.github.io)
