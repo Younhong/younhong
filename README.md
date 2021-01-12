@@ -14,7 +14,7 @@
 * Server System
 * Web Crawling
 * Artificial Intelligence(Machine Learning)
-* Github 버전 관리
+* Git
 
 ## Working Experience
 * (주)아하정보통신: 2017/04/24 ~ 2019/06/24
