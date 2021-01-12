@@ -70,6 +70,14 @@
 * Python
 * Go
 
+## 2021년도 공부해보고 싶은 분야
+* Deno
+* PostgreSQL
+* MongoDB
+* C# .NET
+* Xamarin
+* PhoneGap
+
 ## 참여한 프로젝트
 * [Link](https://younhong.github.io/younhong/projects)
 
