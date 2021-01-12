@@ -1,5 +1,5 @@
 [View My GitHub Profile](https://github.com/Younhong)
-<img class="profile" src="/younhong/image/github.png" width="60px" height="30px">
+<img src="image/github.png" width="60px" height="30px">
 
 ## 소개
 * 한동대학교 전산전자공학부 14학번 고윤홍
