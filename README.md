@@ -19,6 +19,101 @@
 * (주)허그인 산학 캡스톤 프로젝트: 2019년도 겨울 계절학기 ~ 2020년도 가을학기
 * (주)허그인 산학 인턴쉽: 2020년도 겨울 계절학기
 
+## 기술적 스펙
+### 모바일 어플리케이션(안드로이드 & IOS)
+#### 사용 기술
+|이름|설명|
+|---|---|
+|Flutter|Dart 언어 기반의 크로스플랫폼 모바일 어플리케이션 프레임워크|
+|React Native|자바스크립트 기반의 크로스플랫폼 모바일 어플리케이션 프레임워크|
+|Cordova|자바스크립트 기반의 하이브리드 모바일 어플리케이션 프레임워크|
+
+#### 사용언어
+|이름|
+|---|
+|Dart|
+|Java|
+|Kotlin|
+|Swift|
+|Javascript|
+|HTML|
+|CSS|
+
+### 웹
+#### 사용 기술
+|이름|설명|
+|---|---|
+|Flutter||
+|React Native||
+|React||
+|Angular||
+|Vue||
+|Svelte||
+|Ionic||
+
+#### 사용언어
+|이름|
+|---|
+|Dart|
+|Javascript|
+|Typescript|
+|HTML|
+|CSS|
+
+### 데스크탑 어플리케이션
+#### 사용 기술
+|이름|설명|
+|---|---|
+|Flutter||
+|PWA||
+
+#### 사용언어
+|이름|
+|---|
+|Dart|
+|Javascript|
+
+### 서버
+#### 사용 기술
+|이름|설명|
+|---|---|
+|Flask||
+|NodeJS||
+|Spring||
+|Django||
+|NestJS||
+|RestAPI||
+|GraphQL||
+
+#### 사용 언어
+|이름|
+|---|
+|Python|
+|Javascript|
+
+### 데이터베이스
+#### 사용 기술
+|이름|설명|
+|---|---|
+|MySQL||
+|MariaDB||
+|Firebase||
+|MongoDB||
+|SQLite||
+
+### 머신러닝
+#### 사용 기술
+|이름|설명|
+|---|---|
+|Jupyter Notebook||
+|Google Colab||
+
+#### 사용 언어
+|이름|
+|---|
+|Python|
+|Javascript|
+
 ## 참여한 프로젝트
 * [Link](https://younhong.github.io/younhong/projects)
 
