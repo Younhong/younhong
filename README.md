@@ -74,8 +74,7 @@
 * [Link](https://younhong.github.io/younhong/projects)
 
 ## 활동 내역
-[![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong&show_icons=true&theme=tokyonight)](https://github.com/younhong/github-readme-stats)
-
+[![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 보유 자격증
 * SW 테스트 전문가(CSTS) 한국정보통신기술협회(TTA)
