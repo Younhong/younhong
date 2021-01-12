@@ -82,7 +82,7 @@
 * [https://younhong.github.io/younhong](https://younhong.github.io/younhong)
 
 ## Contact Information
-* younhong@kakao.com
+* <a href="mailto: younhong@kakao.com">younhong@kakao.com</a>
 
 <!--
 **Younhong/Younhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
