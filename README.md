@@ -22,7 +22,7 @@
 ## 참여한 프로젝트
 * [Link](https://younhong.github.io/younhong/projects)
 
-[![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong)](https://github.com/younhong/github-readme-stats)
+[![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong&show_icons=true&theme=tokyonight)](https://github.com/younhong/github-readme-stats)
 
 
 ## 보유 자격증
