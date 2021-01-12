@@ -72,14 +72,18 @@
 
 ## 2021년도 공부해보고 싶은 분야
 * Deno
-* PostgreSQL
-* MongoDB
-* C# .NET
-* Xamarin
-* PhoneGap
-* Django & Spring 심화 코스
 * Laravel
 * Ruby On Rails
+* Django & Spring 심화 코스
+* C# ASP.NET
+
+* PostgreSQL
+* MongoDB
+
+* Xamarin
+* PhoneGap
+
+* ElectronJS
 
 ## 참여한 프로젝트
 * [Link](https://younhong.github.io/younhong/projects)
