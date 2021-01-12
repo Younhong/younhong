@@ -1,3 +1,7 @@
+[View My GitHub Profile](https://github.com/Younhong)
+  <img class="profile" src="/img/github.png">
+</a>
+
 ## 소개
 * 한동대학교 전산전자공학부 14학번 고윤홍
 
