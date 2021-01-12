@@ -21,13 +21,11 @@
 
 ## 기술적 스펙
 ### 1. 모바일 어플리케이션(안드로이드 & IOS)
-#### 사용 기술
 * Flutter
 * React Native
 * Cordova
 
 ### 2. 웹
-#### 사용 기술
 * Flutter
 * React Native
 * React
@@ -38,12 +36,10 @@
 * HTML & CSS & Javascript
 
 ### 3. 데스크탑 어플리케이션
-#### 사용 기술
 * Flutter
 * PWA
 
 ### 4. 서버
-#### 사용 기술
 * Flask
 * NodeJS
 * Django
@@ -54,7 +50,6 @@
 * AWS Linux Server
 
 ### 5. 데이터베이스
-#### 사용 기술
 * MySQL
 * MariaDB
 * Firebase
@@ -62,7 +57,6 @@
 * SQLite
 
 ### 6. 머신러닝
-#### 사용 기술
 * Tensorflow
 * Keras
 * Python
@@ -70,7 +64,6 @@
 * Teachable Machine
 
 ### 7. Web Crawling
-#### 사용 기술
 * Python
 * Go
 
