@@ -19,8 +19,60 @@
 * (주)허그인 산학 캡스톤 프로젝트: 2019년도 겨울 계절학기 ~ 2020년도 가을학기
 * (주)허그인 산학 인턴쉽: 2020년도 겨울 계절학기
 
+## 기술적 스펙
+### 1. 모바일 어플리케이션(안드로이드 & IOS)
+* Flutter
+* React Native
+* Cordova
+
+### 2. 웹
+* Flutter
+* React Native
+* React
+* Angular
+* Vue
+* Svelte
+* Ionic
+* HTML & CSS & Javascript
+
+### 3. 데스크탑 어플리케이션
+* Flutter
+* PWA
+
+### 4. 서버
+* Flask
+* NodeJS
+* Django
+* Spring
+* NestJS
+* Rest API
+* GraphQL
+* AWS Linux Server
+
+### 5. 데이터베이스
+* MySQL
+* MariaDB
+* Firebase
+* MongoDB
+* SQLite
+
+### 6. 머신러닝
+* Tensorflow
+* Keras
+* Python
+* Javascript
+* Teachable Machine
+
+### 7. Web Crawling
+* Python
+* Go
+
 ## 참여한 프로젝트
 * [Link](https://younhong.github.io/younhong/projects)
+
+## 활동 내역
+[![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong&show_icons=true&theme=tokyonight)](https://github.com/younhong/github-readme-stats)
+
 
 ## 보유 자격증
 * SW 테스트 전문가(CSTS) 한국정보통신기술협회(TTA)
@@ -30,7 +82,7 @@
 * [https://younhong.github.io/younhong](https://younhong.github.io/younhong)
 
 ## Contact Information
-* younhong@kakao.com
+* <a href="mailto: younhong@kakao.com">younhong@kakao.com</a>
 
 <!--
 **Younhong/Younhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
