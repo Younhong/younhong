@@ -20,13 +20,13 @@
 * (주)허그인 산학 인턴쉽: 2020년도 겨울 계절학기
 
 ## 기술적 스펙
-### 모바일 어플리케이션(안드로이드 & IOS)
+### 1. 모바일 어플리케이션(안드로이드 & IOS)
 #### 사용 기술
 * Flutter
 * React Native
 * Cordova
 
-### 웹
+### 2. 웹
 #### 사용 기술
 * Flutter
 * React Native
@@ -37,12 +37,12 @@
 * Ionic
 * HTML & CSS & Javascript
 
-### 데스크탑 어플리케이션
+### 3. 데스크탑 어플리케이션
 #### 사용 기술
 * Flutter
 * PWA
 
-### 서버
+### 4. 서버
 #### 사용 기술
 * Flask
 * NodeJS
@@ -53,7 +53,7 @@
 * GraphQL
 * AWS Linux Server
 
-### 데이터베이스
+### 5. 데이터베이스
 #### 사용 기술
 * MySQL
 * MariaDB
@@ -61,7 +61,7 @@
 * MongoDB
 * SQLite
 
-### 머신러닝
+### 6. 머신러닝
 #### 사용 기술
 * Tensorflow
 * Keras
@@ -69,7 +69,7 @@
 * Javascript
 * Teachable Machine
 
-### Web Crawling
+### 7. Web Crawling
 #### 사용 기술
 * Python
 * Go
