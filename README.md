@@ -77,6 +77,7 @@
 * C# .NET
 * Xamarin
 * PhoneGap
+* Django & Spring 심화 코스
 
 ## 참여한 프로젝트
 * [Link](https://younhong.github.io/younhong/projects)
