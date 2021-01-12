@@ -22,101 +22,62 @@
 ## 기술적 스펙
 ### 모바일 어플리케이션(안드로이드 & IOS)
 #### 사용 기술
-|이름|설명|
-|---|---|
-|Flutter|Dart 언어 기반의 크로스플랫폼 모바일 어플리케이션 프레임워크|
-|React Native|자바스크립트 기반의 크로스플랫폼 모바일 어플리케이션 프레임워크|
-|Cordova|자바스크립트 기반의 하이브리드 모바일 어플리케이션 프레임워크|
-
-#### 사용언어
-|이름|
-|---|
-|Dart|
-|Java|
-|Kotlin|
-|Swift|
-|Javascript|
-|HTML|
-|CSS|
+* Flutter
+* React Native
+* Cordova
 
 ### 웹
 #### 사용 기술
-|이름|설명|
-|---|---|
-|Flutter||
-|React Native||
-|React||
-|Angular||
-|Vue||
-|Svelte||
-|Ionic||
-
-#### 사용언어
-|이름|
-|---|
-|Dart|
-|Javascript|
-|Typescript|
-|HTML|
-|CSS|
+* Flutter
+* React Native
+* React
+* Angular
+* Vue
+* Svelte
+* Ionic
+* HTML & CSS & Javascript
 
 ### 데스크탑 어플리케이션
 #### 사용 기술
-|이름|설명|
-|---|---|
-|Flutter||
-|PWA||
-
-#### 사용언어
-|이름|
-|---|
-|Dart|
-|Javascript|
+* Flutter
+* PWA
 
 ### 서버
 #### 사용 기술
-|이름|설명|
-|---|---|
-|Flask||
-|NodeJS||
-|Spring||
-|Django||
-|NestJS||
-|RestAPI||
-|GraphQL||
-
-#### 사용 언어
-|이름|
-|---|
-|Python|
-|Javascript|
+* Flask
+* NodeJS
+* Django
+* Spring
+* NestJS
+* Rest API
+* GraphQL
+* AWS Linux Server
 
 ### 데이터베이스
 #### 사용 기술
-|이름|설명|
-|---|---|
-|MySQL||
-|MariaDB||
-|Firebase||
-|MongoDB||
-|SQLite||
+* MySQL
+* MariaDB
+* Firebase
+* MongoDB
+* SQLite
 
 ### 머신러닝
 #### 사용 기술
-|이름|설명|
-|---|---|
-|Jupyter Notebook||
-|Google Colab||
+* Tensorflow
+* Keras
+* Python
+* Javascript
+* Teachable Machine
 
-#### 사용 언어
-|이름|
-|---|
-|Python|
-|Javascript|
+### Web Crawling
+#### 사용 기술
+* Python
+* Go
 
 ## 참여한 프로젝트
 * [Link](https://younhong.github.io/younhong/projects)
 
+## 활동 내역
 [![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong&show_icons=true&theme=tokyonight)](https://github.com/younhong/github-readme-stats)
 
 
