@@ -2,6 +2,7 @@
 
 ## 소개
 * 한동대학교 전산전자공학부 14학번 고윤홍
+* 21년도 2월 졸업예정
 
 ## 전공
 * 컴퓨터공학심화
@@ -14,13 +15,22 @@
 * Server System
 * Web Crawling
 * Artificial Intelligence(Machine Learning)
-* Git
+* Git & Linux
+* SW Test
+
+## 교내 활동
+* 벤쳐러스 창업 학회
+* 공프기 & 캡스톤 프로젝트
+* 다수의 산학 프로젝트
 
 ## Working Experience
 * (주)아하정보통신: 2017/04/24 ~ 2019/06/24
 * (주)한동샘 모바일 앱 개발 산학 프로젝트: 2019년도 가을학기
 * (주)허그인 산학 캡스톤 프로젝트: 2019년도 겨울 계절학기 ~ 2020년도 가을학기
 * (주)허그인 산학 인턴쉽: 2020년도 겨울 계절학기
+
+## 보유 자격증
+* SW 테스트 전문가(CSTS) 한국정보통신기술협회(TTA)
 
 ## 기술적 스펙
 ### 1. 모바일 어플리케이션(안드로이드 & IOS)
@@ -37,6 +47,7 @@
 * Svelte
 * Ionic
 * HTML & CSS & Javascript
+* Typescript
 
 ### 3. 데스크탑 어플리케이션
 * Flutter
@@ -51,6 +62,8 @@
 * Rest API
 * GraphQL
 * AWS Linux Server
+* Typescript & Javascript
+* Python
 
 ### 5. 데이터베이스
 * MySQL
@@ -58,6 +71,8 @@
 * Firebase
 * MongoDB
 * SQLite
+* No-SQL
+* SQL
 
 ### 6. 머신러닝
 * Tensorflow
@@ -69,6 +84,12 @@
 ### 7. Web Crawling
 * Python
 * Go
+
+### 8. 협업
+* Git
+* Github
+* Gitlab
+* Slack & Figma
 
 ## 2021년도 공부해보고 싶은 분야
 * Deno
@@ -88,11 +109,8 @@
 ## 참여한 프로젝트
 * [Link](https://younhong.github.io/younhong/projects)
 
-## 활동 내역
+## 깃허브 활동 내역
 [![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## 보유 자격증
-* SW 테스트 전문가(CSTS) 한국정보통신기술협회(TTA)
 
 ## 깃허브 블로그
 * [https://younhong.github.io](https://younhong.github.io)
