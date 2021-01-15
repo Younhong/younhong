@@ -111,31 +111,28 @@
 ## 깃허브 활동 내역
 [![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<html>
-<!-- Include the library. -->
-<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+<!-- Prepare a container for your calendar. -->
+<script
+  src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"
+>
+</script>
 
 <!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/>
+<link
+  rel="stylesheet"
+  href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"
+/>
 
-<div>
-    <!-- Prepare a container for your calendar. -->
-    <div style="text-align: center;"><strong>나의 GitHub Contribution 그래프</strong></div> 
-    <div class="calendar">
-        <!-- Loading stuff -->
-        Loading data ...
-    </div>
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">
+    <!-- Loading stuff -->
+    Loading the data just for you.
 </div>
 
 <script>
-    GitHubCalendar(".calendar", "younhong", { responsive: true, tooltips: false, global_stats: false}).then(function() {
-        // delete the space underneath the module bar which is caused by minheight 
-        document.getElementsByClassName('calendar')[0].style.minHeight = "100px";
-        // hide more and less legen below the contribution graph
-        document.getElementsByClassName('contrib-legend')[0].style.display = "none";
-    });
+    new GitHubCalendar(".calendar", "younhong");
 </script>
-</html>
+
 
 ## 깃허브 블로그
 * [https://younhong.github.io](https://younhong.github.io)
