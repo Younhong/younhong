@@ -111,27 +111,6 @@
 ## 깃허브 활동 내역
 [![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Prepare a container for your calendar. -->
-<script
-  src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"
->
-</script>
-
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-  rel="stylesheet"
-  href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"
-/>
-
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-</div>
-
-<script>
-    new GitHubCalendar(".calendar", "younhong");
-</script>
-
-
 ## 깃허브 블로그
 * [https://younhong.github.io](https://younhong.github.io)
 * [https://younhong.github.io/younhong](https://younhong.github.io/younhong)
