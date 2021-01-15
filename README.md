@@ -1,3 +1,7 @@
+<!--
+**Younhong/Younhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 [View My GitHub Profile](https://github.com/Younhong)
 
 ## 소개
@@ -114,24 +118,15 @@
 ## 깃허브 잔디 보기
 * [잔디 보러 가는 길](https://younhong.github.io/younhong/contribution.html)
 
+깃허브 내의 자세한 커밋 히스토리는 [여기](https://github.com/younhong) 참고
+
+위의 잔디 보는 링크에서 깃랩의 잔디도 불러오려고 했으나 현재 적절한 api를 구하지 못한 상태이므로 [여기] 방문해서 contribution graph를 확인해보기 바랍니다.
+
+(못 구하면 직접 만들 계획도 있으나 시간이 다소 소요될 것으로 예상됩니다. 깃랩 내의 커밋 히스토리는 비공개 레포지토리에서 진행하였으므로 공개되지 않습니다.)
+
 ## 깃허브 블로그
 * [https://younhong.github.io](https://younhong.github.io)
 * [https://younhong.github.io/younhong](https://younhong.github.io/younhong)
 
 ## Contact Information
 * <a href="mailto: younhong@kakao.com">younhong@kakao.com</a>
-
-<!--
-**Younhong/Younhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
