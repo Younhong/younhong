@@ -87,9 +87,8 @@
 
 ### 8. 협업
 * Git
-* Github
-* Gitlab
-* Slack & Figma
+* [Github](https://github.com/younhong)
+* [Gitlab](https://gitlab.com/younhong)
 
 ## 2021년도 공부해보고 싶은 분야
 * Deno
