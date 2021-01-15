@@ -128,7 +128,7 @@
 </div>
 
 <script>
-    new GitHubCalendar(".calendar", "your-username");
+    new GitHubCalendar(".calendar", "younhong");
 </script>
 
 
