@@ -106,10 +106,13 @@
 * ElectronJS
 
 ## 참여한 프로젝트
-* [Link](https://younhong.github.io/younhong/projects)
+* [Project Links](https://younhong.github.io/younhong/projects)
 
 ## 깃허브 활동 내역
 [![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## 깃허브 잔디 보기
+* [잔디 보러 가는 길](https://younhong.github.io/younhong/contribution.html)
 
 ## 깃허브 블로그
 * [https://younhong.github.io](https://younhong.github.io)
