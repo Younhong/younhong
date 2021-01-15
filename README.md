@@ -94,6 +94,9 @@
 * [Github](https://github.com/younhong)
 * [Gitlab](https://gitlab.com/younhong)
 
+## 참여한 프로젝트
+* [Project Links](https://younhong.github.io/younhong/projects)
+
 ## 2021년도 공부해보고 싶은 분야
 * Deno
 * Laravel
@@ -108,9 +111,6 @@
 * PhoneGap
 
 * ElectronJS
-
-## 참여한 프로젝트
-* [Project Links](https://younhong.github.io/younhong/projects)
 
 ## 깃허브 활동 내역
 [![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
