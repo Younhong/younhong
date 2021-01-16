@@ -63,6 +63,7 @@
 * Django
 * Spring
 * NestJS
+* Deno
 * Rest API
 * GraphQL
 * AWS Linux Server
@@ -98,7 +99,6 @@
 * [Project Links](https://younhong.github.io/younhong/projects)
 
 ## 2021년도 공부해보고 싶은 분야
-* Deno
 * Laravel
 * Ruby On Rails
 * Django & Spring 심화 코스
