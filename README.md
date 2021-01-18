@@ -39,8 +39,7 @@
 ## 기술적 스펙
 [기술적 스펙 보기](https://younhong.github.io/younhong/tech-spec.html)
 
-## 그 외에 공부해본 기술들
-[그 외의 기술적 스펙 보기](https://younhong.github.io/younhong/tech-spec2.html)
+[그 외에 공부해본 기술적 스펙 보기](https://younhong.github.io/younhong/tech-spec2.html)
 
 ## 참여한 프로젝트
 * [Project Links](https://younhong.github.io/younhong/projects)
