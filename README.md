@@ -50,9 +50,7 @@
 * Django & Spring 심화 코스
 * C# ASP.NET
 * JSP & Servelet
-
-* PostgreSQL
-* MongoDB
+* Go Server-Side
 
 * Xamarin
 * PhoneGap
