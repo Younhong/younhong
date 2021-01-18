@@ -37,49 +37,7 @@
 * SW 테스트 전문가(CSTS) 한국정보통신기술협회(TTA)
 
 ## 기술적 스펙
-
-### 1. 모바일 어플리케이션(안드로이드 & IOS)
-* Flutter
-* React Native
-
-### 2. 웹
-* Flutter
-* React Native
-* React
-* HTML & CSS & Javascript
-* Typescript
-
-### 3. 데스크탑 어플리케이션
-* Flutter
-* Electron
-
-### 4. 서버
-* Flask
-* NodeJS
-* ExpressJS
-* NestJS
-* Rest API
-* AWS Linux Server
-* Typescript & Javascript
-* Python
-
-### 5. 데이터베이스
-* MySQL
-* Firebase
-
-### 6. 머신러닝
-* Tensorflow
-* Keras
-* Python
-* Teachable Machine
-
-### 7. Web Crawling
-* Python
-
-### 8. 협업
-* Git
-* [Github](https://github.com/younhong)
-* [Gitlab](https://gitlab.com/younhong)
+[기술적 스펙 보기](https://younhong.github.io/younhong/tech-spec.html)
 
 ## 그 외에 공부해본 기술들
 
