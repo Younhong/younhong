@@ -40,35 +40,7 @@
 [기술적 스펙 보기](https://younhong.github.io/younhong/tech-spec.html)
 
 ## 그 외에 공부해본 기술들
-
-### 1. 모바일 어플리케이션(안드로이드 & IOS)
-* Cordova
-
-### 2. 웹
-* Angular
-* Vue
-* Svelte
-* Ionic
-
-### 3. 데스크탑 어플리케이션
-* PWA
-
-### 4. 서버
-* Django
-* Spring
-* Deno
-* GraphQL
-
-### 5. 데이터베이스
-* MariaDB
-* MongoDB
-* SQLite
-
-### 6. 머신러닝
-* Javascript
-
-### 7. Web Crawling
-* Go
+[그 외의 기술적 스펙 보기](https://younhong.github.io/younhong/tech-spec2.html)
 
 ## 참여한 프로젝트
 * [Project Links](https://younhong.github.io/younhong/projects)
