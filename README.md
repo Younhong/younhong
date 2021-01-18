@@ -37,63 +37,80 @@
 * SW 테스트 전문가(CSTS) 한국정보통신기술협회(TTA)
 
 ## 기술적 스펙
+
 ### 1. 모바일 어플리케이션(안드로이드 & IOS)
 * Flutter
 * React Native
-* Cordova
 
 ### 2. 웹
 * Flutter
 * React Native
 * React
-* Angular
-* Vue
-* Svelte
-* Ionic
 * HTML & CSS & Javascript
 * Typescript
 
 ### 3. 데스크탑 어플리케이션
 * Flutter
-* PWA
+* Electron
 
 ### 4. 서버
 * Flask
 * NodeJS
-* Django
-* Spring
+* ExpressJS
 * NestJS
-* Deno
 * Rest API
-* GraphQL
 * AWS Linux Server
 * Typescript & Javascript
 * Python
 
 ### 5. 데이터베이스
 * MySQL
-* MariaDB
 * Firebase
-* MongoDB
-* SQLite
-* No-SQL
-* SQL
 
 ### 6. 머신러닝
 * Tensorflow
 * Keras
 * Python
-* Javascript
 * Teachable Machine
 
 ### 7. Web Crawling
 * Python
-* Go
 
 ### 8. 협업
 * Git
 * [Github](https://github.com/younhong)
 * [Gitlab](https://gitlab.com/younhong)
+
+## 그 외에 공부해본 기술들
+
+### 1. 모바일 어플리케이션(안드로이드 & IOS)
+* Cordova
+
+### 2. 웹
+* Angular
+* Vue
+* Svelte
+* Ionic
+
+### 3. 데스크탑 어플리케이션
+* PWA
+
+### 4. 서버
+* Django
+* Spring
+* Deno
+* GraphQL
+
+### 5. 데이터베이스
+* MariaDB
+* MongoDB
+* SQLite
+
+### 6. 머신러닝
+* Javascript
+
+### 7. Web Crawling
+* Go
 
 ## 참여한 프로젝트
 * [Project Links](https://younhong.github.io/younhong/projects)
