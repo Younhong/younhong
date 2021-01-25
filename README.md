@@ -6,7 +6,10 @@
 
 ## 소개
 * 한동대학교 전산전자공학부 14학번 고윤홍
+* 인천 거주
 * 21년도 2월 졸업예정
+* 코딩하는 거 좋아함
+* 새로운 기술에 대한 탐구 좋아함
 
 ## 전공
 * 컴퓨터공학심화
@@ -48,12 +51,11 @@
 * [Project Links](https://younhong.github.io/younhong/projects)
 
 ## 2021년도 공부해보고 싶은 분야
+* Django & Spring 심화 코스
 * Laravel
 * Ruby On Rails
-* Django & Spring 심화 코스
 * C# ASP.NET
 * JSP & Servelet
-* Go Server-Side
 
 * Xamarin
 * PhoneGap
