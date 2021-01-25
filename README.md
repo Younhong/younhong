@@ -23,7 +23,6 @@
 * Web Crawling
 * Artificial Intelligence(Machine Learning)
 * Git & Linux
-* SW Test
 
 ## 교내 활동
 * 벤쳐러스 창업 학회
