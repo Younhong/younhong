@@ -63,10 +63,6 @@
 ## 깃허브 잔디 보기
 * [잔디 보러 가는 길](https://younhong.github.io/younhong/contribution.html)
 
-깃허브 내의 자세한 커밋 히스토리는 [여기](https://github.com/younhong) 참고
-
-위의 잔디 보는 링크에서 깃랩의 잔디도 불러오려고 했으나 현재 적절한 api를 구하지 못한 상태이므로 [여기](https://gitlab.com/younhong) 방문해서 contribution graph를 확인해보기 바랍니다.
-
 ## 깃허브 블로그
 * [https://younhong.github.io](https://younhong.github.io)
 * [https://younhong.github.io/younhong](https://younhong.github.io/younhong)
