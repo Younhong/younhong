@@ -50,7 +50,6 @@
 * [Project Links](https://younhong.github.io/younhong/projects)
 
 ## 2021년도 공부해보고 싶은 분야
-* Laravel
 * Ruby On Rails
 * C# ASP.NET
 * JSP & Servelet & Spring Boot
