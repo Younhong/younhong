@@ -53,6 +53,7 @@
 * Ruby On Rails
 * C# ASP.NET
 * JSP & Servelet & Spring Boot
+* FastAPI
 
 * Unity
 
