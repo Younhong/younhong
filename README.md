@@ -70,5 +70,5 @@
 * [https://younhong.github.io/younhong](https://younhong.github.io/younhong)
 
 ## Contact Information
-* 주 이메일: <a href="mailto: younhong@kakao.com">younhong@kakao.com</a>
+* 주요 사용 이메일: <a href="mailto: younhong@kakao.com">younhong@kakao.com</a>
 * 구글 업무용 이메일: <a href="mailto: younhongko@gmail.com">younhongko@gmail.com</a>
