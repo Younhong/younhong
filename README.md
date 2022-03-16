@@ -15,12 +15,13 @@
 * 컴퓨터공학심화
 
 ## 주요 공부 분야
-* Mobile Application(Android & IOS)
-* Web Application
-* Desktop Application(Mac & Window & Linux) 
-* Database System
+* Mobile Application (Android & IOS)
+* Web Application (Website, Web App)
+* Desktop Application (Mac & Window & Linux) 
+* Database
 * Server System
 * Web Crawling
+* Cloud
 * Artificial Intelligence(Machine Learning)
 * Git & Linux
 
