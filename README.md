@@ -11,9 +11,6 @@
 * 졸업일자: 2021년 2월 졸업
 * (주) 소프트웨어팩토리 소속 개발자
 
-## 전공
-* 컴퓨터공학심화
-
 ## 주요 공부 분야
 * Mobile Application (Android & IOS)
 * Web Application (Website, Web App)
