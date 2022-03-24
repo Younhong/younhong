@@ -47,7 +47,7 @@
 ## 참여한 프로젝트
 * [Project Links](https://younhong.github.io/younhong/projects)
 
-## 2021년도 공부해보고 싶은 분야
+## 2022년도 공부해보고 싶은 분야
 * Ruby On Rails
 * C# ASP.NET
 * JSP & Servelet & Spring Boot
