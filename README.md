@@ -70,4 +70,4 @@
 * [https://younhong.github.io/younhong](https://younhong.github.io/younhong)
 
 ## Contact Information
-* 주요 사용 이메일: <a href="mailto: younhong@kakao.com">younhong@kakao.com</a> 
+* <a href="mailto: younhong@kakao.com">younhong@kakao.com</a> 
