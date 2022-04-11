@@ -70,8 +70,4 @@
 * [https://younhong.github.io/younhong](https://younhong.github.io/younhong)
 
 ## Contact Information
-* 주요 사용 이메일: 
-   1. 카카오 이메일: <a href="mailto: younhong@kakao.com">younhong@kakao.com</a> 
-   2. 구글 이메일: <a href="mailto: younhongko@gmail.com">younhongko@gmail.com</a>   
-   3. 네이버 이메일: <a href="mailto: younhongko@naver.com">younhongko@naver.com</a>
-* 구글 업무용 이메일: <a href="mailto: swfact.kyh@gmail.com">swfact.kyh@gmail.com</a>
+* 주요 사용 이메일: <a href="mailto: younhong@kakao.com">younhong@kakao.com</a> 
