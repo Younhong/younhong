@@ -13,7 +13,7 @@
 
 ## 주요 공부 분야
 * Mobile Application (Android & IOS)
-* Web Application (Website, Web App)
+* Web Application
 * Desktop Application (Mac & Window & Linux) 
 * Database
 * Server System
