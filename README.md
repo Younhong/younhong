@@ -57,7 +57,7 @@
 * Unity or RealEngine
 * Nuxt JS
 * NativeScript
-* NoCode App
+* NoCode App - Google AppSheet
 * KMP (Kotlin Multi-Platform)
 
 ## 깃허브 활동 내역
