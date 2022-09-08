@@ -16,10 +16,10 @@
 * Mobile Application (Android & IOS)
 * Web Application
 * Desktop Application (Mac & Window & Linux) 
-* Database
+* Database System
 * Server System
 * Web Crawling
-* Cloud
+* Cloud System
 * Artificial Intelligence (Machine Learning)
 * Git & Linux
 
