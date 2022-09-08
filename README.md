@@ -20,7 +20,7 @@
 * Server System
 * Web Crawling
 * Cloud
-* Artificial Intelligence(Machine Learning)
+* Artificial Intelligence (Machine Learning)
 * Git & Linux
 
 ## 교내 활동
