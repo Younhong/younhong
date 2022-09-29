@@ -49,16 +49,11 @@
 * [Project Links](https://younhong.github.io/younhong/projects)
 
 ## 2022년도 공부해보고 싶은 분야
-### 서버 기술
-* Ruby On Rails
-* C# ASP.NET
 * JSP & Servelet & Spring Boot
 * FastAPI
-* Nuxt JS
-### 앱 개발 기술 
-* FastAPI
 * 로블럭스
-* Unity or RealEngine
+* Unity
+* RealEngine
 * NativeScript
 * KMP (Kotlin Multi-Platform)
 
