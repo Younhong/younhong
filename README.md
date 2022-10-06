@@ -44,7 +44,7 @@
 * 925점
 
 ## 기술적 스펙
-* [기술 스펙 보러가기](https://younhong.github.io/younhong/tech-spec.html)
+* [기술 스펙 보러가기](https://planet-collar-b02.notion.site/a8ebfc98555e4e6dbf60e65b82cae429)
 
 ## 참여한 프로젝트
 * [Project Links](https://younhong.github.io/younhong/projects)
