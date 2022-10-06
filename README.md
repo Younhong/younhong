@@ -53,8 +53,8 @@
 * JSP & Servelet & Spring Boot
 * FastAPI
 * 로블럭스
-* Unity
-* RealEngine
+* Unity Engine: Game & Non-Game
+* Unreal Engine: Game & Non-Game
 * NativeScript
 * KMP (Kotlin Multi-Platform)
 
