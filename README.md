@@ -68,7 +68,6 @@
 * [잔디 보러 가는 길](https://younhong.github.io/younhong/contribution.html)
 
 ## 깃허브 블로그
-* [https://younhong.github.io](https://younhong.github.io)
 * [https://younhong.github.io/younhong](https://younhong.github.io/younhong)
 
 ## 로켓펀치
