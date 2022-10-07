@@ -47,7 +47,10 @@
 * [기술 스펙 보러가기](https://planet-collar-b02.notion.site/a8ebfc98555e4e6dbf60e65b82cae429)
 
 ## 참여한 프로젝트
-* [Project Links](https://younhong.github.io/younhong/projects)
+* [Project Link](https://planet-collar-b02.notion.site/d914fe48d9274de1960e41e91c78e7a0)
+
+## 관심 분야에 대한 공부 기록
+* [Study Link](https://planet-collar-b02.notion.site/0cb0f086269844bbba174c8613ed2300)
 
 ## 2022년도 공부해보고 싶은 분야
 * JSP & Servelet & Spring Boot
