@@ -34,8 +34,8 @@
 * Server System
 * Web Crawling
 * Cloud System
-* Artificial Intelligence (Machine Learning)
-* Git & Linux
+* AI (Machine Learning)
+* Git
 
 ## 기술적 스펙
 * [기술 스펙 보러가기](https://planet-collar-b02.notion.site/a8ebfc98555e4e6dbf60e65b82cae429)
