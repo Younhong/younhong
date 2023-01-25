@@ -46,14 +46,15 @@
 ## 관심 분야에 대한 공부 기록
 * [Study Link](https://planet-collar-b02.notion.site/0cb0f086269844bbba174c8613ed2300)
 
-## 2022년도 공부해보고 싶은 분야
-* JSP & Servelet & Spring Boot
-* FastAPI
-* 로블럭스
-* Unity Engine: Game & Non-Game
-* Unreal Engine: Game & Non-Game
-* NativeScript
-* KMP (Kotlin Multi-Platform)
+## 예비 창업팅 멘토링 참여 로그 및 성과 기록
+* [멘토링 링크 보기](https://planet-collar-b02.notion.site/0a01e5349a95463e9d153f7728ec8067)
+* [멘토링 성과](https://planet-collar-b02.notion.site/316f2e3739b74ca584e1e468929e70fd)
+
+## 보유 자격증
+* [SW 테스트 전문가(CSTS) 한국정보통신기술협회(TTA)](https://github.com/Younhong/younhong/blob/master/TTA%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%83%E1%85%A6%E1%84%86%E1%85%B5%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8E%E1%85%B1%E1%84%83%E1%85%B3%E1%86%A8%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A5.pdf)
+
+## 토익 점수
+* 925점
 
 ## 깃허브 활동 내역
 [![Younhong's github stats](https://github-readme-stats.vercel.app/api?username=younhong&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -67,11 +68,11 @@
 ## 로켓펀치
 * [https://www.rocketpunch.com/@younhong](https://www.rocketpunch.com/@younhong)
 
-## 보유 자격증
-* [SW 테스트 전문가(CSTS) 한국정보통신기술협회(TTA)](https://github.com/Younhong/younhong/blob/master/TTA%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%83%E1%85%A6%E1%84%86%E1%85%B5%20%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8E%E1%85%B1%E1%84%83%E1%85%B3%E1%86%A8%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A5.pdf)
-
-## 토익 점수
-* 925점
+## 2023년도 공부해보고 싶은 분야
+* 로블럭스
+* Unity Engine & Unreal Engine
+* NativeScript
+* KMP (Kotlin Multi-Platform)
 
 ## Contact Information
 * <a href="mailto: younhong@kakao.com">younhong@kakao.com</a> 
